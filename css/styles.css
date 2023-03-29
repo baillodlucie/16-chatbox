@@ -27,4 +27,12 @@ header {
 .message-content {
   background:#2e58ff;
   color:whitesmoke;
+  border-radius: 10px 10px 10px 0;
+  margin: 10 0 0 10px;
+  padding: 15px 20px;
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
 }
