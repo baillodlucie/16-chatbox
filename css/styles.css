@@ -1,8 +1,6 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
-  font-family: sans-serif;
 }
 
 img {
@@ -12,12 +10,21 @@ img {
 }
 
 header {
-  background:grey;
+  background:#2e58ff;
 }
 
 .chatbox-container {
   max-width: 300px;
+  background: #1b0910;
+  font-family: sans-serif;
   margin:auto;
   display:flex;
   flex-direction:column;
+  border-right: #2e58ff solid 2px;
+  border-left: #2e58ff solid 2px;
+}
+
+.message-content {
+  background:#2e58ff;
+  color:whitesmoke;
 }
