@@ -36,3 +36,11 @@ h1 {
   font-size: 30px;
   text-align: center;
 }
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  background: #1b0910;
+  position: sticky;
+  bottom: 0;
+}
