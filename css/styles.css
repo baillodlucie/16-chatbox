@@ -37,6 +37,24 @@ header {
   padding: 15px 20px;
 }
 
+.message-box-julia .message-content {
+  background:grey;
+  border-radius: 15px 15px 0 15px;
+}
+
+.message-box-baptiste .message-content {
+  background:#2e58ff;
+}
+
+.message-hour {
+  color:pink;
+  font-size: 10px;
+}
+.message-box-julia .message-hour {
+  text-align: right;
+}
+
+
 h1 {
   font-size: 30px;
   text-align: center;
