@@ -2,9 +2,22 @@ body {
   max-width: 320px;
   margin: auto;
   background: #ddd;
+  font-family: sans-serif;
 }
 
 img {
   display: block;
   max-width: 100%;
+  border-radius: 50%;
+}
+
+header {
+  background:grey;
+}
+
+.chatbox-container {
+  max-width: 300px;
+  margin:auto;
+  display:flex;
+  flex-direction:column;
 }
