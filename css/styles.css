@@ -1,6 +1,7 @@
 body {
   max-width: 320px;
   margin: auto;
+  background: #000000;
 }
 
 .profile-picture {
@@ -53,6 +54,11 @@ header {
   flex-direction:column;
   border-right: #2e58ff solid 2px;
   border-left: #2e58ff solid 2px;
+}
+
+.message-box {
+  max-width: 75%;
+  margin: 0 10px 10px 10px;
 }
 
 .message-content {
