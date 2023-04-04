@@ -33,16 +33,14 @@ body {
 }
 
 header {
-  background:#2e58ff;
-  background:#ffa6ff;
+  background:#eec6ee;
   color:#2e58ff;
-  margin-bottom: 25px;
-  padding: 20px;
+  padding-bottom: 10px;
   position: sticky;
   top: 0;
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
 }
 
 .chatbox-container {
