@@ -99,7 +99,8 @@ h2 {
 footer {
   display: flex;
   justify-content: space-between;
-  background: #1b0910;
+  background: #eec6ee;
   position: sticky;
   bottom: 0;
+  padding: 10px;
 }
