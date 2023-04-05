@@ -6,8 +6,8 @@ body {
 
 .profile-picture {
   border-radius: 50%;
-  width: 90px;
-  height: 90px;
+  width: 80px;
+  height: 80px;
 }
 
 .localisation {
@@ -92,8 +92,9 @@ h1 {
 }
 
 h2 {
-  font-size: 10px;
-  text-align: left;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
 }
 
 footer {
