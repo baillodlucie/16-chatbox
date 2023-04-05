@@ -11,18 +11,18 @@ body {
 }
 
 .localisation {
-  max-width:50%;
-  max-width: 90%;
+  max-width: 100%;
   display: flex;
   flex-direction: row;
   align-items: flex-end;
 }
 
 .ruelle {
-  max-width: 90%;
+  max-width: 100%;
   display: flex;
   flex-direction: row;
   align-items: flex-end;
+  margin-bottom: 10px;
 }
 
 .gif {
@@ -30,6 +30,7 @@ body {
   display: flex;
   flex-direction: row;
   align-items: flex-end;
+  margin-bottom: 10px;
 }
 
 header {
